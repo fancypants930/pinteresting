@@ -14,4 +14,3 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-# I don't know what to write here
